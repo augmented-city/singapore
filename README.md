@@ -13,6 +13,12 @@ The prompt for the day was "How can we augment or virtualize our experience of S
 * [Slides for running the event](https://docs.google.com/a/mozilla.com/presentation/d/180xCYWc2TxnOLisUZo6NoZlS5w4O57hkN1i46OYSINo/edit?usp=sharing) (Many thanks to Michael Henretty for the original version for VoiceJam Taipei, which these are based on!)
 -->
 
+If you're interested in joining an event, sponsoring or organizing one in your city, or anything else at all, reach out to any of the organizers:
+
+* [Vanessa Radd](https://twitter.com/vanradd), founding member XR alliance, founder of VR/AR Women in Asia Society.
+* [Chris Gomez](https://twitter.com/chrisgomez), founding member XR alliance.
+* [Dietrich Ayala](https://twitter.com/dietrich), developer relations at Mozilla.
+
 [![Join the chat at https://gitter.im/augmented-city/singapore](https://badges.gitter.im/augmented-city/singapore.svg)](https://gitter.im/augmented-city/singapore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Projects
