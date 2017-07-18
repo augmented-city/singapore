@@ -1,6 +1,6 @@
 # Augmented City - Singapore
 
-Augmented City is an experimental event series created collaboratively by the [XR Alliance](https://m.facebook.com/XR-Alliance-1703741423255746/) and [Mozilla](https://www.mozilla.org). The kickoff of this first installment was supported by Intel Singapore.
+Augmented City is an experimental event series created collaboratively by the [XR Alliance](https://m.facebook.com/XR-Alliance-1703741423255746/) and [Mozilla](https://www.mozilla.org). The kickoff of this first installment was supported by [Intel](https://www.intel.sg/content/www/xa/en/homepage.html).
 
 We brought a group of developers and designers together for a day to explore how a city can be experienced using VR and AR. The day was split into a lightweight ideation workshop in the morning and team coding after lunch. The technical focus was to use A-Frame, a declarative 3D authoring tool for VR on the web, to rapidly prototype the ideas from the morning.
 
