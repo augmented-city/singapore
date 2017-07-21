@@ -9,6 +9,7 @@ The prompt for the day was "How can we augment or virtualize our experience of S
 * [Event page](https://www.eventbrite.com/e/vrar-maker-lab-augmented-city-creating-vr-ar-web-content-showcasing-singapore-tickets-35297738486)
 * [A-Frame introductory blog post by Dietrich](http://metafluff.com/2017/07/06/aframe-augmented-city/)
 * [WebVR introductory post by Dietrich](http://metafluff.com/2017/07/12/augmented-city-vr/)
+* [Post-event summary post by Dietrich](https://metafluff.com/2017/07/20/augmented-city-singapore/)
 <!--
 * [Slides for running the event](https://docs.google.com/a/mozilla.com/presentation/d/180xCYWc2TxnOLisUZo6NoZlS5w4O57hkN1i46OYSINo/edit?usp=sharing) (Many thanks to Michael Henretty for the original version for VoiceJam Taipei, which these are based on!)
 -->
