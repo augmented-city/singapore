@@ -24,17 +24,17 @@ If you're interested in joining an event, sponsoring or organizing one in your c
 
 ## Projects
 
-* "We made a historical app for tourism - you walk through Chinatown and get information and get an extra experience. It has augmented data about where you're at. I made a 3d model of an old chinatown house, looking as it did in the old days. You can walk to a new building, and experience what it was like in the past." https://ajar-cook.glitch.me
+* "We made a historical app for tourism - you walk through Chinatown and get information and get an extra experience. It has augmented data about where you're at. I made a 3d model of an old chinatown house, looking as it did in the old days. You can walk to a new building, and experience what it was like in the past." [View](https://chinatown-house.glitch.me/) / [Remix](https://glitch.com/~chinatown-house)
 
-* "I created something for people to experience their bucketlist items." https://harmonious-prosecution.glitch.me
+* "I created something for people to experience their bucketlist items." [View](https://harmonious-prosecution.glitch.me/) / [Remix](https://glitch.com/~harmonious-prosecution)
 
-* "I made a murder crime scene! You have to figure out who's going to die and who's the murderer." https://evanescent-octagon.glitch.me
+* "I made a murder crime scene! You have to figure out who's going to die and who's the murderer." [View](https://evanescent-octagon.glitch.me/) / [Remix](https://glitch.com/~evanescent-octagon)
 
-* "'We built this city' is metatags of people's memories of the city, and links to other websites as well." https://singapore-we-built-this-city.glitch.me
+* "'We built this city' is metatags of people's memories of the city, and links to other websites as well." [View](https://singapore-we-built-this-city.glitch.me/) / [Remix](https://glitch.com/~singapore-we-built-this-city)
 
-* Virtually flooding a city: https://nostalgic-giraffe.glitch.me/orchard_road.html
+* Virtually flooding a city: [View](https://nostalgic-giraffe.glitch.me/orchard_road.html) / [Remix](https://glitch.com/~nostalgic-giraffe)
 
-* "I made a drain for the rubber ducky to swim in." https://nostalgic-giraffe.glitch.me/
+* "I made a drain for the rubber ducky to swim in." [View](https://nostalgic-giraffe.glitch.me/) / [Remix](https://glitch.com/~nostalgic-giraffe)
 
 * "We experimented with a rotating 360 image in vr and ar, and worked on tracking objects in AR." https://codepen.io/mdchad/pen/weORbJ
 
@@ -42,12 +42,12 @@ If you're interested in joining an event, sponsoring or organizing one in your c
 
 * "I tried to figure out how to get QR codes to integrate into A-Frame... not successfully, yet!"
 
-* "We wanted to make an augmented reality information directory." There's information attached to specific buildings in reality, but it's hidden in people's minds. Let's make it so that when you look at the building, you can see the relevant information. https://north-dedication.glitch.me
+* "We wanted to make an augmented reality information directory." There's information attached to specific buildings in reality, but it's hidden in people's minds. Let's make it so that when you look at the building, you can see the relevant information. [View](https://north-dedication.glitch.me/) / [Remix](https://glitch.com/~north-dedication)
 
 * "I tried to understand about replacement of proprietary AR lib with A-Frame, because the proprietary library is $7k. Also how to integrate it in a multiplatform way."
 
 * "I made a 360 image of Venice. I wanted to make a small project but found so much functionality in A-Frame that I wanted to
-keep exploring!" https://robust-guitar.glitch.me
+keep exploring!" [View](https://robust-guitar.glitch.me/) / [Remix](https://glitch.com/~robust-guitar)
 
 ## Screenshots
 
